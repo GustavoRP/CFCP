@@ -1,6 +1,6 @@
 ### What is this repository for? ###
 
-This repository is for IA369Z class at FEEC-UNICAMP (2017/1) where the goal is to have a reproducible paper. You can read the PDF [here](deliver/paper_010617.pdf).
+This repository is for a executable version off a SPIE paper "Automatic callosal fiber convergence plane computation through DTI-based divergence map"
 
 /figures contains the images to the executable paper.
 
@@ -38,12 +38,12 @@ After instaling it, please make sure you have the depencies below:
 Please make sure that the folders structure is according to the repository structure.
 
 ├───ia369z  
-│   ├────data
-│   │     ├─Centers
-│   │     ├─subject001
-│   │     ├─subject002
-│   │     └─ ...
-│   │
+│   ├────data  
+│   │     ├─Centers  
+│   │     ├─subject001  
+│   │     ├─subject002  
+│   │     └─ ...  
+│   │  
 │   └───figures  
 
 
