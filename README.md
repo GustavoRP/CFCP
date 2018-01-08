@@ -38,7 +38,12 @@ After instaling it, please make sure you have the depencies below:
 Please make sure that the folders structure is according to the repository structure.
 
 ├───ia369z  
-│   ├───data  
+│   ├────data
+│   │     ├─Centers
+│   │     ├─subject001
+│   │     ├─subject002
+│   │     └─ ...
+│   │
 │   └───figures  
 
 
